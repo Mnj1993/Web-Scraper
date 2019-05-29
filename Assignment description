@@ -1,3 +1,0 @@
-The goal of this assignment is to demonstrate your ability to capture unconventional datasets, clean and store them.
-
-Write a scraper in either python or NodeJS to collect data from Wikipedia about the top cities in the United States. The fields you collect, as well as the volume of data is up to you, but ideally you add additional data beyond the initial table, such as data found on the individual city pages, or other sources of your choice. The final format should be a CSV file that is ready to be uploaded to a BigQuery table.
